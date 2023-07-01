@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+**Here is what we can share at this moment**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
+🙋‍♀️ A short introduction - This is an AI startup sumz.info, working hard to use prompt engineering, machine learning, LLMs, and AI platform to make content available to everyone without knowing the underlining technology.
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
